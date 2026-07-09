@@ -1,0 +1,71 @@
+import Link from "next/link";
+import { ResponsiveImage } from "@/components/ResponsiveImage";
+import { buildMetadata } from "@/lib/seo";
+import { PageHero } from "@/components/PageHero";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { JsonLd } from "@/components/JsonLd";
+import { breadcrumbSchema, webPageSchema } from "@/lib/schema";
+import { excursions } from "@/data/excursions";
+import { getExcursionImage, excursionsHubImage } from "@/lib/images";
+import { UltimateRivieraDayFeature } from "@/components/UltimateRivieraDayFeature";
+
+export const metadata = buildMetadata({
+  title: "Genoa Shore Excursions — Italian Riviera from Your Cruise Ship",
+  description:
+    "Premium Genoa shore excursions — Portofino, Santa Margherita, Camogli, Ligurian food and hidden Riviera villages, all timed around your ship with return-to-ship confidence.",
+  path: "/shore-excursions",
+  image: excursionsHubImage.src,
+  imageAlt: excursionsHubImage.alt,
+  keywords: ["Genoa shore excursions", "Italian Riviera cruise excursions", "Portofino shore excursions from cruise ship", "Camogli from Genoa"],
+});
+
+const breadcrumbs = [
+  { name: "Home", path: "/" },
+  { name: "Shore Excursions", path: "/shore-excursions" },
+];
+
+export default function ShoreExcursionsPage() {
+  return (
+    <>
+      <JsonLd data={[breadcrumbSchema(breadcrumbs), webPageSchema({ title: "Genoa Shore Excursions", description: "Premium Italian Riviera shore excursions from Genoa cruise port.", path: "/shore-excursions" })]} />
+      <PageHero
+        imageSrc={excursionsHubImage.src}
+        imageAlt={excursionsHubImage.alt}
+        title="Genoa Shore Excursions"
+        subtitle="Premium, passenger-first Italian Riviera tours built around your Genoa port day — Portofino, Santa Margherita, Camogli, Ligurian food and hidden villages with reliable return-to-ship timing."
+        compact
+      />
+      <section className="section-padding">
+        <div className="container-wide">
+          <Breadcrumbs items={breadcrumbs} />
+          <div className="mt-8">
+            <UltimateRivieraDayFeature embedded />
+          </div>
+          <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {excursions.map((e) => {
+              const image = getExcursionImage(e.slug);
+              return (
+                <Link key={e.slug} href={`/shore-excursions/${e.slug}`} className="card-editorial group overflow-hidden">
+                  <div className="relative aspect-[16/9] overflow-hidden">
+                    <ResponsiveImage
+                    image={image}
+                    role="card"
+                    imgClassName="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+                  />
+                    <div className="absolute inset-0 bg-gradient-to-t from-coastal-900/55 via-transparent to-transparent" aria-hidden="true" />
+                    <span className="absolute left-3 top-3 pill bg-white/90">{e.category}</span>
+                  </div>
+                  <div className="p-6">
+                    <h2 className="font-display text-lg font-bold text-gray-900 group-hover:text-coastal-800">{e.title}</h2>
+                    <p className="mt-2 text-sm text-gray-600">{e.tagline}</p>
+                    <p className="mt-3 text-xs font-medium text-coastal-700">{e.duration} · {e.pace}</p>
+                  </div>
+                </Link>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}

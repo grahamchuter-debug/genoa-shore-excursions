@@ -1,0 +1,637 @@
+{
+  "generatedAt": "2026-09-18T08:22:55.933Z",
+  "port": "genoa",
+  "methodology": "official Genoa cruise-date calendar (CT schedule calendar; H1 screenshot-verified) validates call dates; CT discovery supplies ship/time; no travel-agent Tier-2",
+  "officialCalendar": {
+    "totalDates": 203,
+    "monthlyCounts": {
+      "10": 23,
+      "11": 6,
+      "01": 16,
+      "02": 13,
+      "03": 13,
+      "04": 14,
+      "05": 27,
+      "06": 21,
+      "07": 24,
+      "08": 23,
+      "09": 23
+    },
+    "h1Total": 104,
+    "source": "CruiseTimetables Genoa 2028 schedule calendar (monthly day headers) + user screenshot H1 cross-check",
+    "sourceUrls": [
+      "https://www.cruisetimetables.com/genoa-italy-cruise-ship-schedule-2028.html",
+      "https://www.cruisetimetables.com/genoaitalyschedule-jan2028.html",
+      "https://www.cruisetimetables.com/genoaitalyschedule-feb2028.html",
+      "https://www.cruisetimetables.com/genoaitalyschedule-mar2028.html",
+      "https://www.cruisetimetables.com/genoaitalyschedule-apr2028.html",
+      "https://www.cruisetimetables.com/genoaitalyschedule-may2028.html",
+      "https://www.cruisetimetables.com/genoaitalyschedule-jun2028.html",
+      "https://www.cruisetimetables.com/genoaitalyschedule-jul2028.html",
+      "https://www.cruisetimetables.com/genoaitalyschedule-aug2028.html",
+      "https://www.cruisetimetables.com/genoaitalyschedule-sep2028.html",
+      "https://www.cruisetimetables.com/genoaitalyschedule-oct2028.html",
+      "https://www.cruisetimetables.com/genoaitalyschedule-nov2028.html",
+      "https://www.cruisetimetables.com/genoaitalyschedule-dec2028.html"
+    ],
+    "screenshotH1Match": "exact match Jan–Jun (104 dates)"
+  },
+  "ctDiscovery": {
+    "rows": 228,
+    "uniqueDates": 199
+  },
+  "match": {
+    "exactDateMatches": 227,
+    "uniqueOfficialDatesWithCt": 198,
+    "multiShipDays": 28,
+    "multiShipDayDetails": [
+      {
+        "date": "2028-01-04",
+        "ships": [
+          "MSC Lirica",
+          "MSC Seaview"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-01-11",
+        "ships": [
+          "MSC Lirica",
+          "MSC Seaview"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-02-21",
+        "ships": [
+          "MSC Euribia",
+          "Nieuw Statendam"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-04-29",
+        "ships": [
+          "MSC Magnifica",
+          "MSC Musica"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-05-01",
+        "ships": [
+          "MSC World Europa",
+          "Oceania Vista"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-05-10",
+        "ships": [
+          "AIDAstella",
+          "MSC Magnifica"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-05-15",
+        "ships": [
+          "MSC Sinfonia",
+          "MSC World Europa"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-05-31",
+        "ships": [
+          "MSC Magnifica",
+          "Sun Princess"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-06-04",
+        "ships": [
+          "MSC Sinfonia",
+          "MSC World Asia"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-06-14",
+        "ships": [
+          "MSC Magnifica",
+          "MSC Sinfonia"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-06-21",
+        "ships": [
+          "AIDAstella",
+          "MSC Magnifica"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-06-24",
+        "ships": [
+          "MSC Musica",
+          "MSC Sinfonia"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-07-04",
+        "ships": [
+          "MSC Seashore",
+          "MSC Sinfonia"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-07-12",
+        "ships": [
+          "MSC Magnifica",
+          "Sun Princess"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-07-23",
+        "ships": [
+          "Enchanted Princess",
+          "MSC World Asia"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-07-24",
+        "ships": [
+          "MSC Sinfonia",
+          "MSC World Europa"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-08-02",
+        "ships": [
+          "AIDAstella",
+          "MSC Magnifica"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-08-03",
+        "ships": [
+          "MSC Sinfonia",
+          "Sun Princess"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-08-13",
+        "ships": [
+          "MSC Sinfonia",
+          "MSC World Asia"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-08-21",
+        "ships": [
+          "Arcadia",
+          "MSC World Europa"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-08-23",
+        "ships": [
+          "MSC Magnifica",
+          "MSC Sinfonia",
+          "Sun Princess"
+        ],
+        "count": 3
+      },
+      {
+        "date": "2028-09-02",
+        "ships": [
+          "MSC Musica",
+          "MSC Sinfonia"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-09-12",
+        "ships": [
+          "MSC Seashore",
+          "MSC Sinfonia"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-09-13",
+        "ships": [
+          "AIDAstella",
+          "MSC Magnifica"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-10-01",
+        "ships": [
+          "Azamara Quest",
+          "MSC World Asia"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-10-02",
+        "ships": [
+          "MSC Sinfonia",
+          "MSC World Europa"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-10-10",
+        "ships": [
+          "MSC Seashore",
+          "MSC Splendida"
+        ],
+        "count": 2
+      },
+      {
+        "date": "2028-10-22",
+        "ships": [
+          "MSC Sinfonia",
+          "MSC World Asia"
+        ],
+        "count": 2
+      }
+    ],
+    "unmatchedOfficialDates": [
+      "2028-03-29",
+      "2028-05-26",
+      "2028-11-01",
+      "2028-11-03",
+      "2028-11-04"
+    ],
+    "unmatchedOfficialCount": 5,
+    "unmatchedCtRows": 1,
+    "unmatchedCtSamples": [
+      {
+        "date": "2028-04-20",
+        "ship": "MSC World Europa",
+        "cruiseLine": "MSC Cruises",
+        "reason": "ct_date_not_on_official_calendar"
+      }
+    ]
+  },
+  "published2028": {
+    "count": 227,
+    "previousPublished": 15,
+    "cruiseLineBreakdown": {
+      "MSC Cruises": 205,
+      "Windstar Cruises": 1,
+      "Holland America Line": 1,
+      "Princess Cruises": 13,
+      "Oceania Cruises": 1,
+      "AIDA": 4,
+      "P & O Cruises": 1,
+      "Azamara Cruises": 1
+    },
+    "provenanceBreakdown": {
+      "official_port_date_validated": 227
+    },
+    "timeCompleteness": {
+      "total": 227,
+      "arrival": 226,
+      "departure": 224,
+      "both": 224,
+      "neither": 1,
+      "pctBoth": 98.7
+    }
+  },
+  "rejected": {
+    "count": 1,
+    "byReason": {
+      "ct_date_not_on_official_calendar": 1
+    },
+    "rows": [
+      {
+        "date": "2028-04-20",
+        "ship": "MSC World Europa",
+        "cruiseLine": "MSC Cruises",
+        "reason": "ct_date_not_on_official_calendar"
+      }
+    ]
+  },
+  "qa30": [
+    {
+      "date": "2028-01-02",
+      "ship": "MSC World Asia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-02-01",
+      "ship": "MSC Lirica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-03-05",
+      "ship": "MSC World Asia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-04-02",
+      "ship": "MSC World Asia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "16:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-05-01",
+      "ship": "MSC World Europa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-06-03",
+      "ship": "MSC Musica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "17:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-07-01",
+      "ship": "MSC Musica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "17:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-08-01",
+      "ship": "MSC Seashore",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-09-02",
+      "ship": "MSC Musica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "17:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-10-01",
+      "ship": "Azamara Quest",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "08:00",
+      "departure": "20:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-11-05",
+      "ship": "MSC World Asia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "16:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-01-03",
+      "ship": "MSC Euribia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "17:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-02-06",
+      "ship": "MSC World Asia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-03-06",
+      "ship": "MSC Euribia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "17:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-04-03",
+      "ship": "MSC Euribia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-05-01",
+      "ship": "Oceania Vista",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-06-04",
+      "ship": "MSC Sinfonia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-07-02",
+      "ship": "MSC World Asia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "16:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-08-02",
+      "ship": "AIDAstella",
+      "cruiseLine": "AIDA",
+      "arrival": "09:00",
+      "departure": "19:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-09-02",
+      "ship": "MSC Sinfonia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-10-01",
+      "ship": "MSC World Asia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "16:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-11-06",
+      "ship": "MSC World Europa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-01-04",
+      "ship": "MSC Lirica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-02-07",
+      "ship": "MSC Euribia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "17:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-03-07",
+      "ship": "MSC Lirica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-04-04",
+      "ship": "Enchanted Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "07:00",
+      "departure": "19:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-05-02",
+      "ship": "MSC Seashore",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-06-04",
+      "ship": "MSC World Asia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "16:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-07-03",
+      "ship": "MSC World Europa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    },
+    {
+      "date": "2028-08-02",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "onOfficialCalendar": true,
+      "provenance": "official_port_date_validated",
+      "genoaIdentityOk": true
+    }
+  ],
+  "policyRecommendation": {
+    "caribbean": "unchanged — strong-line CT policy remains",
+    "mediterranean": "Where an official port cruise-date calendar exists, use official_port_date_validated over CT discovery (ship/time enrichment). MSC/Princess/other Med majors permitted when date is officially present and hazards pass. Do not use travel-agent sites as Tier-2. Candidate ports: Barcelona (Port de Barcelona forecast), Marseille (GPMM if calendar), Civitavecchia, Piraeus, Malta/Valletta when official calendars available."
+  }
+}

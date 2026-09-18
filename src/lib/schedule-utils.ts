@@ -1,6 +1,6 @@
 import type { ScheduleEntry } from "@/data/types";
 
-export const SCHEDULE_YEARS = [2026, 2027] as const;
+export const SCHEDULE_YEARS = [2026, 2027, 2028] as const;
 
 export type ScheduleYear = (typeof SCHEDULE_YEARS)[number];
 

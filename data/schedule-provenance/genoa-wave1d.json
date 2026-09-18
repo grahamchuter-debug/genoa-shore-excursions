@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-09-18T07:43:29.257Z",
+  "wave": "wave-1d",
+  "port": "genoa",
+  "destSlug": "genoa",
+  "displayName": "Genoa",
+  "counts": {
+    "2026": 158,
+    "2027": 297,
+    "2028_discovery": 228,
+    "2028_published": 15,
+    "public_total": 470,
+    "h1_2026": 0
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "PUBLISH",
+    "reason": "validated 15 >= MIN_PUBLISH_ROWS 15 — publish validated only; held 213 restricted/unvalidated",
+    "validatedCount": 15,
+    "tier2PrincessKeys": 13
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 158,
+      "arrival": 156,
+      "departure": 154,
+      "both": 154,
+      "neither": 2,
+      "pctBoth": 97.5
+    },
+    "2027": {
+      "total": 297,
+      "arrival": 295,
+      "departure": 293,
+      "both": 293,
+      "neither": 2,
+      "pctBoth": 98.7
+    },
+    "2028": {
+      "total": 15,
+      "arrival": 15,
+      "departure": 15,
+      "both": 15,
+      "neither": 0,
+      "pctBoth": 100
+    }
+  },
+  "contaminationPurged": [],
+  "wireSchedulesTs": null
+}

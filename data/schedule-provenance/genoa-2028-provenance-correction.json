@@ -1,0 +1,15 @@
+{
+  "correctedAt": "2026-09-18T13:46:18.416Z",
+  "previousProvenance": "official_port_date_validated",
+  "newProvenance": "ct_validated_future_itinerary",
+  "rows": 227,
+  "evidence": {
+    "smgePrevisioni": "same-day operational passenger arrivals (18 Sep 2026) — not a 2028 calendar",
+    "calendarDatesJsonSource": "NOT an independent official port calendar — CruiseTimetables Genoa 2028 schedule calendar day headers (+ H1 screenshot cross-check of CT). Retained for historical audit only.",
+    "screenshotH1": "user-supplied H1 list matched CT calendar day headers (104 dates) — not an independent port-authority artifact",
+    "ctCalendarHtmlCaptured": true,
+    "independentOfficialPortDatesFor2028": [],
+    "conclusion": "No genuine Genoa port-authority / cruise-terminal 2028 date calendar found. Prior official_port_date_validated label was circular (CT calendar validating CT discovery)."
+  },
+  "publicationDecision": "RETAIN_227_WITH_CORRECTED_PROVENANCE"
+}

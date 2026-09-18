@@ -4112,9 +4112,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-03",
@@ -4123,9 +4125,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-04",
@@ -4134,9 +4138,11 @@
     "arrival": "08:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "11h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-04",
@@ -4145,9 +4151,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-05",
@@ -4156,9 +4164,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-09",
@@ -4167,9 +4177,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-10",
@@ -4178,9 +4190,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-11",
@@ -4189,9 +4203,11 @@
     "arrival": "08:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "11h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-11",
@@ -4200,9 +4216,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-16",
@@ -4211,9 +4229,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-17",
@@ -4222,9 +4242,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-18",
@@ -4233,9 +4255,11 @@
     "arrival": "08:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "11h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-23",
@@ -4244,9 +4268,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-24",
@@ -4255,9 +4281,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-25",
@@ -4266,9 +4294,11 @@
     "arrival": "08:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "11h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-26",
@@ -4277,9 +4307,11 @@
     "arrival": "08:00",
     "departure": "22:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "14h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-30",
@@ -4288,9 +4320,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-01-31",
@@ -4299,9 +4333,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-02-01",
@@ -4310,9 +4346,11 @@
     "arrival": "08:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "11h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-02-06",
@@ -4321,9 +4359,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-02-07",
@@ -4332,9 +4372,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-02-08",
@@ -4343,9 +4385,11 @@
     "arrival": "08:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "11h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-02-13",
@@ -4354,9 +4398,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-02-14",
@@ -4365,9 +4411,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-02-15",
@@ -4376,9 +4424,11 @@
     "arrival": "08:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "11h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-02-20",
@@ -4387,9 +4437,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-02-21",
@@ -4398,9 +4450,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-02-21",
@@ -4409,9 +4463,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-02-22",
@@ -4420,9 +4476,11 @@
     "arrival": "08:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "11h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-02-27",
@@ -4431,9 +4489,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-02-28",
@@ -4442,9 +4502,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-02-29",
@@ -4453,9 +4515,11 @@
     "arrival": "08:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "11h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-03-05",
@@ -4464,9 +4528,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-03-06",
@@ -4475,9 +4541,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-03-07",
@@ -4486,9 +4554,11 @@
     "arrival": "08:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "11h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-03-09",
@@ -4497,9 +4567,11 @@
     "arrival": "08:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "12h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-03-12",
@@ -4508,9 +4580,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-03-13",
@@ -4519,9 +4593,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-03-14",
@@ -4530,9 +4606,11 @@
     "arrival": "08:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "11h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-03-19",
@@ -4541,9 +4619,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-03-20",
@@ -4552,9 +4632,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-03-26",
@@ -4563,9 +4645,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-03-27",
@@ -4574,9 +4658,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-03-30",
@@ -4585,9 +4671,11 @@
     "arrival": "08:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "12h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-02",
@@ -4596,9 +4684,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-03",
@@ -4607,9 +4697,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-04",
@@ -4618,9 +4710,11 @@
     "arrival": "07:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "12h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-09",
@@ -4629,9 +4723,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-12",
@@ -4640,9 +4736,11 @@
     "arrival": "07:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-15",
@@ -4651,9 +4749,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-16",
@@ -4662,9 +4762,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-18",
@@ -4673,9 +4775,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-19",
@@ -4684,9 +4788,11 @@
     "arrival": "08:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "12h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-22",
@@ -4695,9 +4801,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-23",
@@ -4706,9 +4814,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-25",
@@ -4717,9 +4827,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-29",
@@ -4728,9 +4840,11 @@
     "arrival": "07:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-29",
@@ -4739,9 +4853,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-04-30",
@@ -4750,9 +4866,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-01",
@@ -4761,9 +4879,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-01",
@@ -4772,9 +4892,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-02",
@@ -4783,9 +4905,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-03",
@@ -4794,9 +4918,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-05",
@@ -4805,9 +4931,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-06",
@@ -4816,9 +4944,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-07",
@@ -4827,9 +4957,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-08",
@@ -4838,9 +4970,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-09",
@@ -4849,9 +4983,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-10",
@@ -4860,9 +4996,11 @@
     "arrival": "09:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-10",
@@ -4871,9 +5009,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-11",
@@ -4882,9 +5022,11 @@
     "arrival": "08:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "12h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-13",
@@ -4893,9 +5035,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-14",
@@ -4904,9 +5048,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-15",
@@ -4915,9 +5061,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-15",
@@ -4926,9 +5074,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-16",
@@ -4937,9 +5087,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-17",
@@ -4948,9 +5100,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-20",
@@ -4959,9 +5113,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-21",
@@ -4970,9 +5126,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-22",
@@ -4981,9 +5139,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-23",
@@ -4992,9 +5152,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-24",
@@ -5003,9 +5165,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-25",
@@ -5014,9 +5178,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-27",
@@ -5025,9 +5191,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-28",
@@ -5036,9 +5204,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-29",
@@ -5047,9 +5217,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-30",
@@ -5058,9 +5230,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-31",
@@ -5069,9 +5243,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-05-31",
@@ -5080,9 +5256,11 @@
     "arrival": "08:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "12h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-03",
@@ -5091,9 +5269,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-04",
@@ -5102,9 +5282,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-04",
@@ -5113,9 +5295,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-05",
@@ -5124,9 +5308,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-06",
@@ -5135,9 +5321,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-07",
@@ -5146,9 +5334,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-10",
@@ -5157,9 +5347,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-11",
@@ -5168,9 +5360,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-12",
@@ -5179,9 +5373,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-13",
@@ -5190,9 +5386,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-14",
@@ -5201,9 +5399,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-14",
@@ -5212,9 +5412,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-17",
@@ -5223,9 +5425,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-18",
@@ -5234,9 +5438,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-19",
@@ -5245,9 +5451,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-20",
@@ -5256,9 +5464,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-21",
@@ -5267,9 +5477,11 @@
     "arrival": "09:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-21",
@@ -5278,9 +5490,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-22",
@@ -5289,9 +5503,11 @@
     "arrival": "08:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "12h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-24",
@@ -5300,9 +5516,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-24",
@@ -5311,9 +5529,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-25",
@@ -5322,9 +5542,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-26",
@@ -5333,9 +5555,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-27",
@@ -5344,9 +5568,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-06-28",
@@ -5355,9 +5581,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-01",
@@ -5366,9 +5594,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-02",
@@ -5377,9 +5607,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-03",
@@ -5388,9 +5620,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-04",
@@ -5399,9 +5633,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-04",
@@ -5410,9 +5646,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-05",
@@ -5421,9 +5659,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-08",
@@ -5432,9 +5672,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-09",
@@ -5443,9 +5685,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-10",
@@ -5454,9 +5698,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-11",
@@ -5465,9 +5711,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-12",
@@ -5476,9 +5724,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-12",
@@ -5487,9 +5737,11 @@
     "arrival": "08:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "12h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-14",
@@ -5498,9 +5750,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-15",
@@ -5509,9 +5763,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-16",
@@ -5520,9 +5776,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-17",
@@ -5531,9 +5789,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-18",
@@ -5542,9 +5802,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-19",
@@ -5553,9 +5815,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-22",
@@ -5564,9 +5828,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-23",
@@ -5575,9 +5841,11 @@
     "arrival": "07:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "12h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-23",
@@ -5586,9 +5854,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-24",
@@ -5597,9 +5867,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-24",
@@ -5608,9 +5880,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-25",
@@ -5619,9 +5893,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-26",
@@ -5630,9 +5906,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-29",
@@ -5641,9 +5919,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-30",
@@ -5652,9 +5932,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-07-31",
@@ -5663,9 +5945,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-01",
@@ -5674,9 +5958,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-02",
@@ -5685,9 +5971,11 @@
     "arrival": "09:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-02",
@@ -5696,9 +5984,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-03",
@@ -5707,9 +5997,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-03",
@@ -5718,9 +6010,11 @@
     "arrival": "08:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "12h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-05",
@@ -5729,9 +6023,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-06",
@@ -5740,9 +6036,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-07",
@@ -5751,9 +6049,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-08",
@@ -5762,9 +6062,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-09",
@@ -5773,9 +6075,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-12",
@@ -5784,9 +6088,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-13",
@@ -5795,9 +6101,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-13",
@@ -5806,9 +6114,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-14",
@@ -5817,9 +6127,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-15",
@@ -5828,9 +6140,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-16",
@@ -5839,9 +6153,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-19",
@@ -5850,9 +6166,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-20",
@@ -5861,9 +6179,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-21",
@@ -5872,7 +6192,9 @@
     "arrival": "",
     "departure": "",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated"
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-21",
@@ -5881,9 +6203,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-22",
@@ -5892,9 +6216,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-23",
@@ -5903,9 +6229,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-23",
@@ -5914,9 +6242,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-23",
@@ -5925,9 +6255,11 @@
     "arrival": "08:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "12h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-26",
@@ -5936,9 +6268,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-27",
@@ -5947,9 +6281,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-28",
@@ -5958,9 +6294,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-29",
@@ -5969,9 +6307,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-08-30",
@@ -5980,9 +6320,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-02",
@@ -5991,9 +6333,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-02",
@@ -6002,9 +6346,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-03",
@@ -6013,9 +6359,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-04",
@@ -6024,9 +6372,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-05",
@@ -6035,9 +6385,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-06",
@@ -6046,9 +6398,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-09",
@@ -6057,9 +6411,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-10",
@@ -6068,9 +6424,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-11",
@@ -6079,9 +6437,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-12",
@@ -6090,9 +6450,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-12",
@@ -6101,9 +6463,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-13",
@@ -6112,9 +6476,11 @@
     "arrival": "09:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-13",
@@ -6123,9 +6489,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-14",
@@ -6134,9 +6502,11 @@
     "arrival": "08:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "12h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-16",
@@ -6145,9 +6515,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-17",
@@ -6156,9 +6528,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-18",
@@ -6167,9 +6541,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-19",
@@ -6178,9 +6554,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-20",
@@ -6189,9 +6567,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-22",
@@ -6200,9 +6580,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-23",
@@ -6211,9 +6593,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-24",
@@ -6222,9 +6606,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-25",
@@ -6233,9 +6619,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-26",
@@ -6244,9 +6632,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-27",
@@ -6255,9 +6645,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-09-30",
@@ -6266,9 +6658,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-01",
@@ -6277,9 +6671,11 @@
     "arrival": "08:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "12h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-01",
@@ -6288,9 +6684,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-02",
@@ -6299,9 +6697,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-02",
@@ -6310,9 +6710,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-03",
@@ -6321,9 +6723,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-04",
@@ -6332,9 +6736,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-05",
@@ -6343,9 +6749,11 @@
     "arrival": "08:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "12h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-07",
@@ -6354,9 +6762,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-08",
@@ -6365,9 +6775,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-09",
@@ -6376,9 +6788,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-10",
@@ -6387,9 +6801,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-10",
@@ -6398,8 +6814,10 @@
     "arrival": "08:00",
     "departure": "",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
-    "timeProvenance": "ct_discovery"
+    "provenance": "ct_validated_future_itinerary",
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-11",
@@ -6408,9 +6826,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-12",
@@ -6419,9 +6839,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-14",
@@ -6430,9 +6852,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-15",
@@ -6441,9 +6865,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-16",
@@ -6452,9 +6878,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-17",
@@ -6463,9 +6891,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-18",
@@ -6474,9 +6904,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-21",
@@ -6485,9 +6917,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-22",
@@ -6496,9 +6930,11 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-22",
@@ -6507,9 +6943,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-23",
@@ -6518,9 +6956,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-24",
@@ -6529,9 +6969,11 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "9h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-28",
@@ -6540,9 +6982,11 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-29",
@@ -6551,9 +6995,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-10-30",
@@ -6562,9 +7008,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-11-05",
@@ -6573,9 +7021,11 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "8h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-11-06",
@@ -6584,9 +7034,11 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
+    "provenance": "ct_validated_future_itinerary",
     "timeInPort": "10h",
-    "timeProvenance": "ct_discovery"
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   },
   {
     "date": "2028-11-08",
@@ -6595,7 +7047,9 @@
     "arrival": "09:00",
     "departure": "",
     "callType": "Port of call",
-    "provenance": "official_port_date_validated",
-    "timeProvenance": "ct_discovery"
+    "provenance": "ct_validated_future_itinerary",
+    "timeProvenance": "ct_discovery",
+    "validationPath": "C_ct_only_future_discovery",
+    "validationNote": "Published Genoa 2028 body retained from CT discovery after port-hazard filter; not independent official-port validation."
   }
 ]

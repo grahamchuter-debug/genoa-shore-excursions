@@ -11,22 +11,14 @@ function img(base: string, alt: string): SiteImage {
 }
 
 export const siteImages = {
-  hero: {
-    src: `${B}/hero-home.jpg`,
-    alt: "Portofino harbour and the Italian Riviera coastline — gateway from Genoa cruise port",
-  },
-  ogDefault: {
-    src: `${B}/og-default.jpg`,
-    alt: "Italian Riviera cruise planning — Portofino, Camogli and Genoa cruise port",
-  },
+  hero: img("hero-home", "Portofino harbour and the Italian Riviera coastline — gateway from Genoa cruise port"),
+  ogDefault: img("og-default", "Italian Riviera cruise planning — Portofino, Camogli and Genoa cruise port"),
   logo: {
     src: `${B}/logo-mark.svg`,
     alt: "Genoa Shore Excursions",
+    base: "logo-mark",
   },
-  port: {
-    src: `${B}/cruise-port.jpg`,
-    alt: "Genoa Stazione Marittime cruise port — gateway to the Italian Riviera",
-  },
+  port: img("cruise-port", "Genoa Stazione Marittime cruise port — gateway to the Italian Riviera"),
 } as const;
 
 export const subjectImages: Record<string, SiteImage> = {

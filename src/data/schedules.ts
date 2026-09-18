@@ -78,6 +78,14 @@ export function getScheduleEntriesForMonth(slug: string, monthKey: string): Sche
   return filterEntriesByMonth(getScheduleEntries(slug), monthKey);
 }
 
+export function getScheduleEntriesForShip(slug: string, shipName: string): ScheduleEntry[] {
+  return getScheduleEntries(slug).filter((e) => e.ship === shipName);
+}
+
+export function getScheduleEntriesForShipYear(slug: string, shipName: string, year: number): ScheduleEntry[] {
+  return filterEntriesByYear(getScheduleEntriesForShip(slug, shipName), year);
+}
+
 export function getVerifiedMonthKeys(slug: string): string[] {
   return getMonthsWithEntries(getScheduleEntries(slug));
 }

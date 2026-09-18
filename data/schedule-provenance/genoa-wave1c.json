@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-09-18T07:24:51.178Z",
+  "wave": "wave-1c",
+  "port": "genoa",
+  "destSlug": "genoa",
+  "displayName": "Genoa",
+  "portIdentityNote": "Genoa ≠ Portofino — no invented berths; purge livorno.json contamination",
+  "minPublishRows": 15,
+  "counts": {
+    "2026": 158,
+    "2027": 297,
+    "2028_discovery": 228,
+    "2028_published": 0,
+    "public_total": 455
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "HOLD",
+    "reason": "validated 2 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+    "validatedCount": 2,
+    "tier2AzamaraVenice": 0
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 158,
+      "arrival": 156,
+      "departure": 154,
+      "both": 154,
+      "neither": 2,
+      "pctBoth": 97.5
+    },
+    "2027": {
+      "total": 297,
+      "arrival": 295,
+      "departure": 293,
+      "both": 293,
+      "neither": 2,
+      "pctBoth": 98.7
+    },
+    "2028": {
+      "total": 0,
+      "arrival": 0,
+      "departure": 0,
+      "both": 0,
+      "neither": 0,
+      "pctBoth": 0
+    }
+  },
+  "berthPolicy": "unknown — no generic terminals published",
+  "contaminationPurged": [
+    "src/data/imported-schedules/livorno.json"
+  ],
+  "wireSchedulesTs": null,
+  "placeholderPurged": true
+}

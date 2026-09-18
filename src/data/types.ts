@@ -117,6 +117,8 @@ export interface ScheduleEntry {
   terminal?: string;
   callType?: string;
   notes?: string;
+  /** Verified tour operating start time (HH:MM), when available — not ship ETA. */
+  tourTime?: string;
 }
 
 export interface ShipSchedulePort {

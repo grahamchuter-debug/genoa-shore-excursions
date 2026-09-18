@@ -64,8 +64,9 @@ const dynamicPatterns = [
   /^\/guides\/[\w-]+$/,
   /^\/compare\/[\w-]+$/,
   /^\/ship-schedules\/[\w-]+$/,
-  /^\/ship-schedules\/[\w-]+\/(2026|2027)$/,
-  /^\/ship-schedules\/[\w-]+\/(january|february|march|april|may|june|july|august|september|october|november|december)-20(26|27)$/,
+  /^\/ship-schedules\/[\w-]+\/(2026|2027|2028)$/,
+  /^\/ship-schedules\/[\w-]+\/(january|february|march|april|may|june|july|august|september|october|november|december)-20(26|27|28)$/,
+  /^\/cruise-ships\/[\w-]+$/,
 ];
 
 for (const slug of excursionSlugs) validPaths.add(`/shore-excursions/${slug}`);
@@ -74,7 +75,7 @@ for (const slug of experienceSlugs) validPaths.add(`/guides/${slug}`);
 for (const slug of comparisonSlugs) validPaths.add(`/compare/${slug}`);
 for (const slug of schedulePortSlugs) {
   validPaths.add(`/ship-schedules/${slug}`);
-  for (const year of ["2026", "2027"]) {
+  for (const year of ["2026", "2027", "2028"]) {
     validPaths.add(`/ship-schedules/${slug}/${year}`);
   }
 }

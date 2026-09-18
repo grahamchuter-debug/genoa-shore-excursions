@@ -1,6 +1,20 @@
+import Link from "next/link";
 import type { ScheduleEntry } from "@/data/types";
+import { getShipPagePath } from "@/data/ship-pages";
 
-export function ScheduleTable({ entries, portName, highlightedDate }: { entries: ScheduleEntry[]; portName?: string; highlightedDate?: string }) {
+function displayTime(value: string | undefined): string {
+  return value && value.trim() ? value : "—";
+}
+
+export function ScheduleTable({
+  entries,
+  portName,
+  highlightedDate,
+}: {
+  entries: ScheduleEntry[];
+  portName?: string;
+  highlightedDate?: string;
+}) {
   if (entries.length === 0) {
     return (
       <div className="rounded-xl border border-gray-200 bg-coastal-50 p-8 text-center">
@@ -24,17 +38,31 @@ export function ScheduleTable({ entries, portName, highlightedDate }: { entries:
           </tr>
         </thead>
         <tbody className="divide-y divide-gray-100 bg-white">
-          {entries.map((entry, i) => (
-            <tr key={`${entry.date}-${entry.ship}-${i}`} className={highlightedDate && entry.date === highlightedDate ? "bg-coastal-100" : undefined}>
-              <td className="px-4 py-3 text-sm whitespace-nowrap">{entry.date}</td>
-              <td className="px-4 py-3 text-sm font-medium">{entry.ship}</td>
-              <td className="px-4 py-3 text-sm text-gray-600">{entry.cruiseLine}</td>
-              <td className="px-4 py-3 text-sm text-gray-600">{entry.arrival}</td>
-              <td className="px-4 py-3 text-sm text-gray-600">{entry.departure}</td>
-              <td className="px-4 py-3 text-sm text-gray-600">{entry.timeInPort ?? "—"}</td>
-              <td className="px-4 py-3 text-sm text-gray-600">{entry.terminal ?? "—"}</td>
-            </tr>
-          ))}
+          {entries.map((entry, i) => {
+            const shipHref = getShipPagePath(entry.ship);
+            return (
+              <tr
+                key={`${entry.date}-${entry.ship}-${i}`}
+                className={highlightedDate && entry.date === highlightedDate ? "bg-coastal-100" : undefined}
+              >
+                <td className="px-4 py-3 text-sm whitespace-nowrap">{entry.date}</td>
+                <td className="px-4 py-3 text-sm font-medium">
+                  {shipHref ? (
+                    <Link href={shipHref} className="text-coastal-800 underline-offset-2 hover:underline">
+                      {entry.ship}
+                    </Link>
+                  ) : (
+                    entry.ship
+                  )}
+                </td>
+                <td className="px-4 py-3 text-sm text-gray-600">{entry.cruiseLine}</td>
+                <td className="px-4 py-3 text-sm text-gray-600">{displayTime(entry.arrival)}</td>
+                <td className="px-4 py-3 text-sm text-gray-600">{displayTime(entry.departure)}</td>
+                <td className="px-4 py-3 text-sm text-gray-600">{entry.timeInPort ?? "—"}</td>
+                <td className="px-4 py-3 text-sm text-gray-600">{entry.terminal ?? "—"}</td>
+              </tr>
+            );
+          })}
         </tbody>
       </table>
     </div>

@@ -1,1 +1,499 @@
-date,ship,cruise_line,arrival,departure,time_in_port,terminal,call_type,notes
+date,ship,cruise_line,arrival,departure,time_in_port,terminal,call_type,notes,tour_time
+2027-01-03,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-01-04,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-01-05,MSC Magnifica & MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-01-10,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-01-11,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-01-12,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-01-17,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-01-18,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-01-24,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-01-25,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-01-31,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-02-01,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-02-07,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-02-08,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-02-09,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-02-14,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-02-15,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-02-16,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-02-21,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-02-22,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-02-23,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-02-28,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-03-01,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-03-02,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-03-07,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-03-08,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-03-09,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-03-14,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-03-15,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-03-16,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-03-21,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-03-22,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-03-23,Costa Fascinosa,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-03-23,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-03-26,Costa Fascinosa,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-03-28,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-03-29,Costa Fascinosa,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-03-29,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-03-30,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-03-30,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-04,Costa Fascinosa,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-04,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-05,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-04-06,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-06,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-09,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-11,Costa Fascinosa,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-11,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-12,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-13,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-15,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-16,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,11:00
+2027-04-17,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-18,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-18,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-20,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-23,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-24,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-04-25,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-26,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-27,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-28,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-04-30,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-01,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-05-02,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-03,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-04,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-06,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-07,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-08,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-05-08,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-09,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-10,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-11,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-14,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-15,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-05-16,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-17,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-18,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-18,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-21,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-22,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-05-23,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-24,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-25,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-27,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-28,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-28,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-29,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-05-30,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-05-31,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-01,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-04,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-05,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-06-06,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-07,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-06-07,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-08,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-11,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-12,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-06-13,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-14,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-15,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-15,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-17,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-06-18,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-19,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-06-20,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-21,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-22,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-25,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-26,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-06-27,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-06-27,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-28,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-29,Carnival Sunshine,Carnival Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-06-29,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-02,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-03,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-07-04,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-05,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-06,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-07,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-07-08,Disney Wish,Disney Cruise Line,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-09,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-10,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-07-11,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-12,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-13,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-16,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-17,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-07-17,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-07-18,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-19,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-20,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-23,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-24,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-07-25,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-26,Enchanted Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-26,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-27,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-27,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-07-30,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-07-31,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-08-01,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-02,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-03,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-06,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-06,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-08-07,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-08-08,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-09,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-10,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-13,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-14,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-08-15,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-16,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-08-16,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-17,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-19,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-20,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-21,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-08-22,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-23,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-24,Carnival Sunshine,Carnival Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-24,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-26,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-08-27,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-28,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-08-29,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-30,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-08-31,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-03,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-04,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-09-05,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-09-05,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-06,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-07,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-08,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-10,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-11,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-09-12,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-13,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-14,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-15,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-09-17,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-18,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-09-19,Costa Fascinosa,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-09-19,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-20,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-21,Carnival Sunshine,Carnival Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-21,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-24,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-25,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-09-25,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-09-26,Costa Fascinosa,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-26,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-27,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-09-28,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-01,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-02,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-10-03,Costa Fascinosa,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-03,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-04,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-04,Oceania Allura,Oceania Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-05,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-05,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-10-08,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-09,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-10-10,Costa Fascinosa,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-10,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-11,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-12,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-15,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-15,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-16,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-10-17,Costa Fascinosa,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-17,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-18,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-19,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-20,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-21,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-22,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-23,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-10-24,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-24,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-25,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-10-25,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-26,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-28,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-29,Costa Smeralda,Costa Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-30,MSC Divina,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-10-30,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-10-31,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-11-01,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-11-02,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-11-02,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-11-06,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-11-06,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-11-07,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-11-08,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-11-14,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-11-15,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-11-15,MSC Splendida,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-11-16,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-11-16,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-11-21,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-11-22,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-11-23,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-11-23,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-11-26,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-11-28,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-11-29,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-11-30,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-11-30,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-05,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-06,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-12-06,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-07,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-07,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-12,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-13,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-12-14,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-14,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-16,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-19,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-20,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-12-21,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-21,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-26,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-26,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-27,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2027-12-28,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2027-12-28,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-01-02,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-01-03,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-01-04,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-01-04,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-01-05,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-01-09,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-01-10,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-01-11,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-01-11,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-01-16,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-01-17,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-01-18,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-01-23,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-01-24,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-01-25,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-01-30,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-01-31,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-02-01,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-02-06,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-02-07,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-02-08,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-02-13,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-02-14,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-02-15,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-02-20,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-02-21,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-02-21,Nieuw Statendam,Holland America Line,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-02-22,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-02-27,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-02-28,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-02-29,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-03-05,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-03-06,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-03-07,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-03-09,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-03-12,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-03-13,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-03-14,MSC Lirica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-03-19,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-03-20,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-03-26,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-03-27,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-03-30,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-04-02,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-04-03,MSC Euribia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-04-04,Enchanted Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-04-09,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-04-12,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-04-15,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-04-16,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-04-18,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-04-19,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-04-20,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-04-22,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-04-23,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-04-25,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-04-29,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-04-29,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-04-30,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-01,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-02,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-03,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-05,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-06,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-05-07,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-08,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-09,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-10,AIDAstella,AIDA,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-05-10,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-05-11,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-13,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-05-14,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-15,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-05-15,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-16,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-17,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-05-20,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-05-21,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-22,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-23,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-24,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-05-25,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-05-27,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-05-28,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-29,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-30,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-05-31,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-05-31,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-06-03,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-06-04,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-06-05,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-06-06,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-06-07,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-06-10,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-06-11,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-06-12,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-06-13,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-06-14,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-06-14,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-06-17,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-06-18,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-06-19,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-06-20,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-06-21,AIDAstella,AIDA,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-06-21,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-06-22,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-06-24,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-06-24,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-06-25,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-06-26,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-06-27,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-06-28,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-07-01,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-07-02,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-03,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-04,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-04,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-07-05,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-07-08,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-07-09,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-10,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-11,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-12,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-07-12,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-14,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-07-15,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-07-16,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-17,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-18,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-19,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-07-22,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-07-23,Enchanted Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-23,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-24,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-07-24,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-25,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-26,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-07-29,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-07-30,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-07-31,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-01,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-02,AIDAstella,AIDA,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-08-02,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-08-03,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-08-03,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-05,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-08-06,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-07,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-08,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-09,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-08-12,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-08-13,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-08-13,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-14,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-15,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-16,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-08-19,MSC Musica,MSC Cruises,,,,,,Schedule entry without verified arrival/departure times.,
+2028-08-20,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-21,Arcadia,P & O Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-21,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-22,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-23,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-08-23,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-08-23,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-26,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-08-27,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-28,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-29,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-08-30,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-09-02,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-09-02,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-09-03,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-09-04,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-09-05,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-09-06,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-09-09,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-09-10,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-09-11,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-09-12,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-09-12,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-09-13,AIDAstella,AIDA,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-09-13,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-09-14,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-09-16,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-09-17,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-09-18,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-09-19,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-09-20,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-09-22,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-09-23,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-09-24,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-09-25,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-09-26,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-09-27,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-09-30,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-10-01,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-10-02,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-10-02,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-10-03,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,07:00
+2028-10-04,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,08:00
+2028-10-05,Sun Princess,Princess Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:00
+2028-10-07,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-10-08,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-10-09,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-10-10,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-10-10,MSC Splendida,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-10-11,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-10-12,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-10-14,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-10-15,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-10-16,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-10-17,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-10-18,MSC Magnifica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-10-21,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-10-22,MSC Sinfonia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-10-22,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-10-23,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-10-24,MSC Seashore,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-10-28,MSC Musica,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00
+2028-10-29,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-10-30,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-11-05,MSC World Asia,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-11-06,MSC World Europa,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,09:30
+2028-11-08,MSC Seaview,MSC Cruises,,,,,,Tour-operating schedule entry — ship arrival/departure not verified in this dataset.,10:00

@@ -5,7 +5,7 @@ export const SCHEDULE_YEARS = [2026, 2027] as const;
 export type ScheduleYear = (typeof SCHEDULE_YEARS)[number];
 
 export function isScheduleYearSlug(value: string): value is `${ScheduleYear}` {
-  return value === "2026" || value === "2027";
+  return value === "2026" || value === "2027" || value === "2028";
 }
 
 export function parseScheduleYear(value: string): ScheduleYear | null {
@@ -128,4 +128,17 @@ export function formatMonthLabel(monthKey: string): string {
 
 export function getEntriesForDate(entries: ScheduleEntry[], date: string): ScheduleEntry[] {
   return entries.filter((e) => e.date === date);
+}
+
+export function formatScheduleDate(isoDate: string): string {
+  const [y, m, d] = isoDate.split("-").map(Number);
+  if (!y || !m || !d) return isoDate;
+  const date = new Date(Date.UTC(y, m - 1, d));
+  return date.toLocaleDateString("en-GB", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+    timeZone: "UTC",
+  });
 }

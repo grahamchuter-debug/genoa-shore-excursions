@@ -6,6 +6,7 @@ import { getAllGuideSlugs } from "@/lib/guides";
 import { getAllComparisonSlugs } from "@/data/comparisons";
 import { getAllSchedulePortSlugs, getVerifiedMonthKeys } from "@/data/schedules";
 import { SCHEDULE_YEARS, portYearPath, portMonthPath } from "@/lib/schedule-utils";
+import { getAllShipPagePaths } from "@/data/ship-pages";
 
 export const dynamic = "force-static";
 
@@ -26,6 +27,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/about",
     "/ultimate-italian-riviera-day",
     "/compare",
+    ...getAllShipPagePaths(),
   ];
 
   const dynamicPages = [

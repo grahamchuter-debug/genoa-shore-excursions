@@ -19,6 +19,7 @@ import {
   filterEntriesByMonth,
 } from "@/lib/schedule-utils";
 import { hasVerifiedScheduleData } from "@/lib/routes";
+import { SHIP_SCHEDULE_PROMOTIONS } from "@/data/ship-pages";
 
 export function ShipScheduleHubView({ port }: { port: ShipSchedulePort }) {
   const entries = getScheduleEntries(port.slug);
@@ -56,6 +57,21 @@ export function ShipScheduleHubView({ port }: { port: ShipSchedulePort }) {
         Times, terminals and dates are indicative and compiled from published timetables. Always confirm with your
         cruise line before booking excursions or transfers.
       </div>
+
+      {hasData &&
+        port.slug === "genoa" &&
+        SHIP_SCHEDULE_PROMOTIONS.map((promo) => (
+          <div
+            key={promo.path}
+            className="mb-6 rounded-xl border border-maple-200 bg-gradient-to-br from-amber-50/80 to-white p-6 sm:p-7 last:mb-10"
+          >
+            <p className="text-xs font-semibold uppercase tracking-wider text-maple-700">{promo.eyebrow}</p>
+            <p className="mt-2 text-base text-gray-800 leading-relaxed">{promo.body}</p>
+            <Link href={promo.path} className="btn-accent mt-4 inline-flex text-sm">
+              {promo.cta}
+            </Link>
+          </div>
+        ))}
 
       {(today.length > 0 || tomorrow.length > 0) && (
         <section className="mb-12">

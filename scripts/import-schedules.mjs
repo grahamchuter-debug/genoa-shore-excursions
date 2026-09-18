@@ -6,6 +6,11 @@
  *
  * Source:  data/schedule-sources/genoa.csv
  * Output:  src/data/imported-schedules/genoa.json
+ *
+ * Notes:
+ * - tour_time is optional and represents verified tour operating start times,
+ *   not ship arrival/departure.
+ * - Empty arrival/departure are preserved (not invented).
  */
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
@@ -62,35 +67,53 @@ function main() {
 
   const raw = readFileSync(SOURCE, "utf8").trim();
   const lines = raw.split(/\r?\n/).filter((l) => l.trim().length > 0);
-  const header = parseCsvLine(lines[0]).map((h) => h.toLowerCase());
+  const header = parseCsvLine(lines[0]).map((h) => h.toLowerCase().replace(/[\s_]+/g, ""));
 
   const idx = (name) => header.indexOf(name);
   const iDate = idx("date");
   const iShip = idx("ship");
-  const iLine = idx("cruiseline");
+  const iLine = Math.max(idx("cruiseline"), idx("cruiseline"));
+  const iLineAlt = idx("cruiseline") >= 0 ? idx("cruiseline") : idx("cruise_line".replace("_", ""));
+  // cruise_line → cruiseline after normalisation
+  const cruiseLineIdx = header.indexOf("cruiseline");
   const iArr = idx("arrival");
   const iDep = idx("departure");
-  const iPax = idx("passengers");
   const iNotes = idx("notes");
+  const iTour = idx("tourtime");
+  const iTerminal = idx("terminal");
+  const iCallType = idx("calltype");
 
   const entries = [];
+  const seen = new Set();
   for (let i = 1; i < lines.length; i++) {
     const cols = parseCsvLine(lines[i]);
-    const arrival = iArr >= 0 ? cols[iArr] : "";
-    const departure = iDep >= 0 ? cols[iDep] : "";
+    const date = cols[iDate];
+    const ship = cols[iShip];
+    if (!date || !ship) continue;
+    const key = `${date}|${ship}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+
+    const arrival = iArr >= 0 ? cols[iArr] || "" : "";
+    const departure = iDep >= 0 ? cols[iDep] || "" : "";
+    const tourTime = iTour >= 0 && cols[iTour] ? cols[iTour] : undefined;
+    const notes = iNotes >= 0 && cols[iNotes] ? cols[iNotes] : undefined;
+
     entries.push({
-      date: cols[iDate],
-      ship: cols[iShip],
-      cruiseLine: iLine >= 0 ? cols[iLine] : "",
+      date,
+      ship,
+      cruiseLine: cruiseLineIdx >= 0 ? cols[cruiseLineIdx] || "" : "",
       arrival,
       departure,
-      timeInPort: computeTimeInPort(arrival, departure),
-      terminal: "Molo Garibaldi",
-      callType: "Port of call",
-      ...(iPax >= 0 && cols[iPax] ? { passengers: cols[iPax] } : {}),
-      ...(iNotes >= 0 && cols[iNotes] ? { notes: cols[iNotes] } : {}),
+      ...(computeTimeInPort(arrival, departure) ? { timeInPort: computeTimeInPort(arrival, departure) } : {}),
+      ...(iTerminal >= 0 && cols[iTerminal] ? { terminal: cols[iTerminal] } : {}),
+      ...(iCallType >= 0 && cols[iCallType] ? { callType: cols[iCallType] } : {}),
+      ...(tourTime ? { tourTime } : {}),
+      ...(notes ? { notes } : {}),
     });
   }
+
+  entries.sort((a, b) => a.date.localeCompare(b.date) || a.ship.localeCompare(b.ship));
 
   mkdirSync(dirname(OUTPUT), { recursive: true });
   writeFileSync(OUTPUT, JSON.stringify(entries, null, 2) + "\n");

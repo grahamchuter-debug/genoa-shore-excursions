@@ -61,7 +61,7 @@ export default function UltimateItalianRivieraDayPage() {
           <p className="mt-5 max-w-2xl text-lg leading-relaxed text-white/90">{ultimateItalianRivieraDay.tagline}</p>
           <p className="mt-4 max-w-2xl text-sm leading-relaxed text-white/75">{ultimateItalianRivieraDay.overview}</p>
           <div className="mt-8 flex flex-wrap gap-3">
-            <Link href="/enquire" className="btn-accent">Enquire about this experience</Link>
+            <Link href="/enquire/?excursion=ultimate-italian-riviera-day" className="btn-accent">Enquire about this experience</Link>
             <Link href="/cruise-planner" className="btn-secondary border-white/30 bg-white/10 text-white hover:bg-white/20">
               Check it fits your port day
             </Link>
@@ -257,7 +257,7 @@ export default function UltimateItalianRivieraDayPage() {
         <div className="container-wide max-w-4xl">
           <FAQSection faqs={ultimateItalianRivieraDay.faqs} title="Ultimate Italian Riviera Day — FAQs" />
           <div className="mt-10 flex flex-wrap gap-3">
-            <Link href="/enquire" className="btn-accent">Enquire about Ultimate Italian Riviera Day</Link>
+            <Link href="/enquire/?excursion=ultimate-italian-riviera-day" className="btn-accent">Enquire about Ultimate Italian Riviera Day</Link>
             <Link href="/shore-excursions" className="btn-secondary">Browse all excursions</Link>
           </div>
           <div className="mt-12">

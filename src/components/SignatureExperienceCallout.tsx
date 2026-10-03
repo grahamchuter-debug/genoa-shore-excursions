@@ -56,7 +56,7 @@ export function SignatureExperienceCallout({ context = "general", compact = fals
           <Link href={SIGNATURE_EXPERIENCE_PATH} className="btn-accent">
             View Signature Experience →
           </Link>
-          <Link href="/enquire" className="btn-secondary text-sm">
+          <Link href="/enquire/?excursion=ultimate-italian-riviera-day" className="btn-secondary text-sm">
             Enquire
           </Link>
         </div>

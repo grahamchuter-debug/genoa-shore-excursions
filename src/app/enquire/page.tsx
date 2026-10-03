@@ -5,6 +5,8 @@ import { PlanningLinks } from "@/components/PlanningLinks";
 import { JsonLd } from "@/components/JsonLd";
 import { breadcrumbSchema, webPageSchema } from "@/lib/schema";
 import { SITE } from "@/lib/site";
+import { EnquiryForm } from "@/components/EnquiryForm";
+import { excursions } from "@/data/excursions";
 
 const path = "/enquire";
 
@@ -27,25 +29,7 @@ export default function EnquirePage() {
       <section className="section-padding">
         <div className="container-wide max-w-xl">
           <Breadcrumbs items={breadcrumbs} />
-          <form className="space-y-4">
-            <div>
-              <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-1">Name</label>
-              <input id="name" type="text" className="w-full rounded-lg border border-gray-300 px-4 py-2 text-sm" />
-            </div>
-            <div>
-              <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-1">Email</label>
-              <input id="email" type="email" className="w-full rounded-lg border border-gray-300 px-4 py-2 text-sm" />
-            </div>
-            <div>
-              <label htmlFor="cruise" className="block text-sm font-medium text-gray-700 mb-1">Cruise date &amp; ship (optional)</label>
-              <input id="cruise" type="text" className="w-full rounded-lg border border-gray-300 px-4 py-2 text-sm" placeholder="e.g. 15 June 2026, Celebrity Apex" />
-            </div>
-            <div>
-              <label htmlFor="message" className="block text-sm font-medium text-gray-700 mb-1">Message</label>
-              <textarea id="message" rows={5} className="w-full rounded-lg border border-gray-300 px-4 py-2 text-sm" placeholder="Tell us about your Italian Riviera port day and how we can help..." />
-            </div>
-            <button type="submit" className="btn-primary">Send Enquiry</button>
-          </form>
+          <EnquiryForm excursions={excursions.map((e) => ({ slug: e.slug, title: e.title }))} fallbackEmail={SITE.email} />
           <p className="mt-6 text-sm text-gray-600">Or email us directly at {SITE.email}</p>
           <div className="mt-12">
             <PlanningLinks />

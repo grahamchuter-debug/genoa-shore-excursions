@@ -91,7 +91,7 @@ export default async function ExcursionDetailPage({ params }: { params: Promise<
 
           <div className="mt-10 flex flex-wrap gap-3">
             <Link href="/cruise-planner" className="btn-primary">Build my cruise plan</Link>
-            <Link href="/enquire" className="btn-secondary">Enquire about this excursion</Link>
+            <Link href={`/enquire/?excursion=${e.slug}`} className="btn-secondary">Enquire about this excursion</Link>
           </div>
 
           {related.length > 0 && (

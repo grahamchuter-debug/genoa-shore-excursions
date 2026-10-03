@@ -53,7 +53,7 @@ export function UltimateRivieraDayFeature({ embedded = false }: { embedded?: boo
           <Link href={SIGNATURE_EXPERIENCE_PATH} className="btn-accent">
             Discover Ultimate Italian Riviera Day →
           </Link>
-          <Link href="/enquire" className="btn-secondary">
+          <Link href="/enquire/?excursion=ultimate-italian-riviera-day" className="btn-secondary">
             Enquire
           </Link>
         </div>
